@@ -1,6 +1,6 @@
 # Jared Sewak | Software Engineer
 
-[LinkedIn](https://www.linkedin.com/in/jaredsewak/){:target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/jaredsewak/)
 
 ## About Me
 

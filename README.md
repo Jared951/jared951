@@ -1,6 +1,6 @@
 # Jared Sewak | Software Engineer
 
-[LinkedIn](https://www.linkedin.com/in/jaredsewak/)
+[LinkedIn](https://www.linkedin.com/in/jaredsewak/) [Portfolio Website](https://jaredsewak.netlify.app/)
 
 ## About Me
 

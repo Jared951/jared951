@@ -8,6 +8,8 @@ Hello! I'm Jared Sewak, a passionate Software Engineer with a background in the 
 
 ## Skills
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 Python | Javascript | Flask | Flask-Login | Flask-WTForms | SQL | PostgreSQL | Flask-SQLAlchemy | Jinja2 | Node.js | Express | Axios | Bootstrap | AWS | HTML | CSS | Git | Github | Postman
 
 Please feel free to explore my GitHub repositories for projects and code samples. Thank you for visiting!

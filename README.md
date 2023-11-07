@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm Jared Sewak, a passionate Software Engineer with a background in the marketing/sales industry.
+Hello! I'm Jared Sewak, a passionate Software Engineer currently working in Technical Software Support.
 
 ## Skills
 

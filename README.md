@@ -8,6 +8,6 @@ Hello! I'm Jared Sewak, a passionate Software Engineer currently working in Tech
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,js,ts,react,postgres,sqlite,nodejs,express,discord,bootstrap,html,css,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,js,postgres,sqlite,nodejs,express,discord,bootstrap,html,css,vscode,postman)](https://skillicons.dev)
 
 Please feel free to explore my GitHub repositories for projects and code samples. Thank you for visiting!

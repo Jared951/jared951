@@ -1,4 +1,4 @@
-# Jared Sewak | Software Engineer
+# Jared Sewak | Software Developer
 
 [LinkedIn](https://www.linkedin.com/in/jaredsewak/) | [Portfolio Website](https://jaredsewak.netlify.app/)
 

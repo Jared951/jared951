@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm Jared Sewak, a passionate Software Engineer currently working in Technical Software Support.
+Hello! I'm Jared Sewak, a passionate Software Developer currently working in Technical Software Support.
 
 ## Skills
 
